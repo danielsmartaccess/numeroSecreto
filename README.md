@@ -12,4 +12,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Daniel S Pereira</sub>](https://github.com/danielsmartaccess) | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/108040161?s=400&u=a0dd3e61559a5ee485d539dcd156d18f1659ac33&v=4" width=115><br><sub>Daniel S Pereira</sub>](https://github.com/danielsmartaccess) | 
