@@ -10,4 +10,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-// Código omitido. 
+# Time
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Daniel S Pereira</sub>](https://github.com/danielsmartaccess) | 
